@@ -26,7 +26,7 @@ I'm currently focused on building a strong foundation in programming and technol
 ---
 
 ## 🛠️ Technologies & Tools
-<p align="left">
+<p align="center>
   <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github" />
 </p>
 
@@ -80,4 +80,10 @@ I'm always interested in connecting with fellow students, developers, researcher
 
 I'm at the beginning of my journey, and this profile is a place to document the things I learn, the projects I build, and the problems I solve.
 
-**Thanks for visiting my profile! ⭐**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" alt="Footer" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ✨</b>
+</p>

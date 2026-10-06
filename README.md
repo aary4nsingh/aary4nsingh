@@ -77,6 +77,7 @@ I enjoy trying different dishes, learning new cooking techniques, and experiment
 I'm always interested in connecting with fellow students, developers, researchers, and people working in **biotechnology and technology**.
 
 📧 **Email:** aary4nsingh@gmail.com
+
 🐙 **GitHub:** You're already here!
 
 ---

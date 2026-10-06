@@ -1,4 +1,4 @@
-## Hi there 👋 I am Aaryan
+## Hi there 👋 I am Aaryan Singh
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aary4nsingh/aary4nsingh/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aary4nsingh/aary4nsingh/main/dist/pet-light.svg">
